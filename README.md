@@ -75,12 +75,25 @@ A fast, modern desktop app to compress and batch-convert images with a polished 
 PixelPress Image Compressor
 Copyright (c) 2025 Sayan Dey
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, modify, and distribute the Software in binary form, subject to the following conditions:
+All rights reserved.
 
-1. The above copyright notice and this permission notice shall be included in all copies.
-2. This software is provided "as is", without warranty of any kind.
+Permission is granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+and distribute the Software in binary form for personal or commercial purposes,
+subject to the following conditions:
+
+1. The Software must not be modified, reverse-engineered, or redistributed
+   in altered form without prior written permission from the copyright holder.
+
+2. Proper credit must be given in any use, distribution, or publication
+   of the Software. This includes retaining this copyright notice
+   in all copies of the Software.
+
+3. This Software is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement. In no event shall
+   the author is liable for any claim, damages, or other liability arising
+   from the use of the Software.
 ```
 
 ## Credits
