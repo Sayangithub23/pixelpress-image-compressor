@@ -17,9 +17,9 @@ A fast, modern desktop app to compress and batch-convert images with a polished 
 * Status log and progress bar with per-item success/error notes.
 
 ## Screenshots
-* `docs/light_mode.png` — main UI in light theme
-* `docs/dark_mode.png` — main UI in dark theme
-* `docs/progress.png` — compression in progress
+* docs/light_mode.png — main UI in light theme
+* docs/dark_mode.png — main UI in dark theme
+* docs/progress.png — compression in progress
 
 ## Installation
 
