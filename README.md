@@ -34,7 +34,7 @@ A fast, modern desktop app to compress and batch-convert images with a polished 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pixelpress-image-compressor.git
+   git clone https://github.com/Sayangithub23/pixelpress-image-compressor.git
    cd pixelpress-image-compressor
    ```
 2. Create and activate a virtual environment:
